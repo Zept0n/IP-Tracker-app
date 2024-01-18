@@ -1,7 +1,5 @@
 import 'dotenv/config';
 
-console.log(process.env.API_KEY) // remove this after you've confirmed it is working
-
 import express from 'express';
 import fetch from 'node-fetch';
 
